@@ -17,5 +17,3 @@ export const fetchData = async(url, options) => {
 //This code snippet demonstrates an asynchronous function that 
 //makes an HTTP request, retrieves the response, parses it as JSON, 
 //and returns the resulting data.
-
-
